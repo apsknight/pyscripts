@@ -16,10 +16,10 @@ Python Scripts for fetching data from JSON APIs using `json` and `urllib2` modul
 
 ### How to Run:
     * Open Terminal and clone repository with following command  
-`git clone https://github.com/apsknight/pyscripts`
+`git clone https://github.com/apsknight/pyscripts`  
     * cd into cloned folder
-`cd pyscripts`
+`cd pyscripts`  
     * Run any script
-`python <script name>.py`
+`python <script name>.py`  
         
 
